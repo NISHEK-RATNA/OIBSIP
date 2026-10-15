@@ -1,27 +1,57 @@
-Machine Learning & Data Analysis Projects
+Oasis Infobyte Data Science Internship (OIBSIP)
 
-Project 1: Car Price Prediction
+Welcome to my Data Science Internship project repository at Oasis Infobyte.
 
-A machine learning project to predict car prices based on features such as brand, model, year, mileage, and other relevant factors.
+This repository contains my completed internship projects using Python, data analysis, data visualization, and machine learning.
 
-Project 2: Iris Flower Classification
+Projects Completed
 
-A machine learning project to classify iris flowers into different species based on sepal and petal measurements.
+Task 1: Iris Flower Classification
 
-Project 3: Unemployment Analysis
+A machine learning project that classifies iris flowers into different species based on sepal and petal measurements.
 
-A Python data analysis project to study unemployment trends and patterns using data analysis and visualization techniques.
+Technologies: Python, Pandas, NumPy, Scikit-learn
+
+Notebook: "Iris_Flower_Classification.ipynb"
+
+Task 2: Unemployment Analysis with Python
+
+A data analysis project that explores unemployment trends and patterns using Python and data visualization techniques.
+
+Technologies: Python, Pandas, NumPy, Matplotlib, Seaborn
+
+Notebook: "Unemployment Analysis 2.ipynb"
+
+Task 3: Car Price Prediction
+
+A machine learning project that predicts car prices based on features such as brand, model, year, mileage, and other relevant factors.
+
+Technologies: Python, Pandas, NumPy, Scikit-learn
+
+Notebook: "Car Price Prediction.ipynb"
 
 Technologies Used
 
 - Python
-- Machine Learning
+- Jupyter Notebook
 - Pandas
 - NumPy
-- Scikit-learn
 - Matplotlib
 - Seaborn
+- Scikit-learn
+
+Learning Outcomes
+
+- Data cleaning and preprocessing
+- Exploratory data analysis (EDA)
+- Data visualization
+- Machine learning and classification
+- Understanding and interpreting model results
 
 Author
 
 Nimmala Nishek Ratna
+
+Internship
+
+Oasis Infobyte — Data Science Internship (OIBSIP)
